@@ -109,7 +109,7 @@ body{
     padding: 50px;
     background-image: url('./Flower Asset/Rectangle\ 9.png');
     background-repeat: no-repeat;
-    width: 80%;
+    width: 70%;
 }
 
 .email{
@@ -130,4 +130,28 @@ body{
     justify-content: center;
 }
 
+/* done */
+.footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 50px;
+}
+.footer span{
+    color: #E55473;
+}
 
+.footer p{
+    color: gainsboro;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer h2{
+    color: gainsboro;
+    font-size: 10px;
+    color: rgb(98, 95, 95);
+}
