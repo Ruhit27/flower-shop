@@ -93,7 +93,7 @@ body{
     text-align: center;
     margin-top: 140px;
     background-color: #EBFDFF;
-    padding: 50px 20px;
+    padding: 50px 140px;
     width: 50%;
 }
 
@@ -101,3 +101,33 @@ body{
     display: flex;
     justify-content: center;
 }
+
+/* service done  */
+.sub{
+    text-align: center;
+    margin-top: 100px;
+    padding: 50px;
+    background-image: url('./Flower Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    width: 80%;
+}
+
+.email{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+}
+
+.input{
+    padding: 10px 85px;
+    border: 1px solid white;
+
+}
+
+.sub-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+
