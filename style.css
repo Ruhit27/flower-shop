@@ -84,3 +84,20 @@ body{
     width: 300px;
     height: 470px;
 }
+
+/* hero done  */
+
+.services{
+    display: flex;
+    gap: 150px;
+    text-align: center;
+    margin-top: 140px;
+    background-color: #EBFDFF;
+    padding: 50px 20px;
+    width: 50%;
+}
+
+.service-wrapper{
+    display: flex;
+    justify-content: center;
+}
